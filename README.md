@@ -8,4 +8,4 @@ No data is stored outside Notion.
 
 The API key is stored securely and never exposed.
 
-Contact: ni.flintrop@gmail.com
+Contact: ni.flin@gmail.com
